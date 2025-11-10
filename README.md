@@ -21,7 +21,7 @@ Batch: 2022 – 2026
 The Educational Organization project is designed to manage institutional activities digitally, integrating student, staff, and academic operations into one unified system. It simplifies record management, automates administrative tasks, and promotes efficient communication between departments. This system enhances transparency, reduces manual workload, and supports data-driven decisions for better educational outcomes.
 
 
----
+
 
 🎯 Objectives
 
@@ -57,7 +57,3 @@ Under the mentorship of the Department of Computer Science and Engineering, M.E.
 
 The Educational Organization project demonstrates how digital platforms can simplify and strengthen academic management. It streamlines communication, minimizes paperwork, and ensures efficient handling of institutional data—fostering a smart and connected learning environment.
 
-
----
-
-Would you like me to give this same content as an HTML webpage design (like your ServiceNow one with proper layout and gradient background)?
